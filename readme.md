@@ -2,5 +2,5 @@
 
 * `bower install`
 * `composer install`
-* run `pdf.php` to split pdf file
+* run `pdf.php` to split pdf file in to pages
 * read it through `index.php` with bookblock
