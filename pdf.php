@@ -3,6 +3,7 @@
 use setasign\Fpdi;
 
 require_once('vendor/autoload.php');
+require_once('helper.php');
 
 $filename   = "eabr4.pdf";
 $source_dir = "./pdf/sources/";
@@ -36,12 +37,3 @@ for ($page = 1; $page <= $pages; $page++) {
 	}
 }
 $pdf->close();
-
-function dd($str)
-{
- 	echo '<pre>';
-    // print_r($str);
-	var_dump(debug_backtrace());
-    echo '</pre>';
-    die;
-}
