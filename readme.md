@@ -1,4 +1,4 @@
-** Note: ** Tidak berkerja bila pdf dienkripsi
+**Note:** Tidak berkerja bila pdf dienkripsi
 
 * `bower install`
 * `composer install`
