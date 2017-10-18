@@ -1,0 +1,21 @@
+{
+  "name": "pdf-bookblock",
+  "homepage": "https://github.com/ronggur/pdf-bookblock",
+  "authors": [
+    "Ronggur Habibun <ronggur.mh@gmail.com>"
+  ],
+  "description": "nothing special",
+  "main": "index.php",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "codrops/BookBlock": "*"
+  }
+}

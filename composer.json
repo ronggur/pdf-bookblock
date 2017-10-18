@@ -1,0 +1,8 @@
+{
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "smalot/pdfparser": "^0.11.0",
+        "setasign/fpdf": "^1.8",
+        "setasign/fpdi-fpdf": "^2.0"
+    }
+}
